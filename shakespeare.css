@@ -68,3 +68,27 @@ table
     border: dotted;
     
 }
+
+.navBar {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .navBar a {
+    float: left;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navBar a:hover {
+    background-color:red;
+    color: black;
+  }
+  
+  .navBar a.active {
+    background-color: #3d1abb;
+    color: white;
+  }
