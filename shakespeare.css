@@ -51,3 +51,12 @@
     color: olivedrab;
 }
 
+
+table
+{
+    border-style: dotted;
+    color: peachpuff;
+   text-align: center;
+   padding: 10mm;
+   margin: 10mm;
+}
