@@ -1,0 +1,53 @@
+.speech 
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    color: balck;
+}
+
+.stage-direction
+{
+    font-family: cursive;
+    font-size: larger;
+    background-color: lightseagreen;
+    color: balck;
+}
+
+.name
+{
+    font-family: sans-serif;
+    font-size: larger;
+    color: black;
+}
+
+.stage-direction:hover
+{
+    background-color: cadetblue;
+    color: crimson;
+}
+
+.countess
+{
+    color:darkgoldenrod;
+}
+
+.clown
+{
+    color:deepskyblue;
+}
+
+.FirstGentleman
+{
+   color: greenyellow;
+}
+
+.Secondgentleman
+{
+   color:hotpink;
+}
+
+.helena
+{
+    color: olivedrab;
+}
+
